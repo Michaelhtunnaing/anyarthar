@@ -1,9 +1,9 @@
 {
 "con":true,
 "appversion":"1.0.0",
-"uriVersion":"1.0.0",
-"appVersionDetails":"goodAppVersion",
-"uriVersionDetails":"goodUi",
+"uriversion":"1.0.0",
+"appversionDetails":"goodAppVersion",
+"uriversionDetails":"goodUi",
 "premierLeague":[{"title":"Premier League","img":""},
 {"home":"Burnley FC","homeimg":"https://images.justwatch.com/icon/300419668/s40/burnley-fc.png","away":"Manchester City","awayimg":"https://images.justwatch.com/icon/285104569/s40/manchester-city.png","hours":"08:00 PM","month":"Aug 11","links":[{
 "linkname":"English",
