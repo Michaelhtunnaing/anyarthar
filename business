@@ -1,7 +1,7 @@
 {
 "con":true,
-"appversion":"1.0.0",
-"uriversion":"1.0.0",
+"appversion":"1.0",
+"uriversion":"1.0",
 "appversionDetails":"goodAppVersion",
 "uriversionDetails":"goodUi",
 "premierLeague":[{"title":"Premier League","img":""},
