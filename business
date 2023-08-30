@@ -1,5 +1,5 @@
 {
-"con":true,
+  "con":true,
 "title":"Temporary Server Error",
 "subtitle":"a temporary error occor",
 "link":"https://play.google.com/store/apps/details?id=omegle.tv",
@@ -7,63 +7,48 @@
 "uriversion":"1.0",
 "appversionDetails":"goodAppVersion",
 "uriversionDetails":"goodUi",
-"premierLeague":[{"title":"Premier League","img":""},
-{"home":"Burnley FC","homeimg":"https://images.justwatch.com/icon/300419668/s40/burnley-fc.png","away":"Manchester City","awayimg":"https://images.justwatch.com/icon/285104569/s40/manchester-city.png","hours":"08:00 PM","month":"Aug 11","links":[{
-"linkname":"English",
-"link":"https://www Google.com"
-}]
-},{"home":"Burnley FC","homeimg":"https://images.justwatch.com/icon/300419668/s40/burnley-fc.png","away":"Manchester City","awayimg":"https://images.justwatch.com/icon/285104569/s40/manchester-city.png","hours":"08:00 PM","month":"Aug 11","links":[{
-"linkname":"English",
-"link":"https://www.google.com"
-}]}
-],
-"seriea":[{"title":"Serie A","img":""},
-{"home":"Burnley FC","homeimg":"https://images.justwatch.com/icon/300419668/s40/burnley-fc.png","away":"Manchester City","awayimg":"https://images.justwatch.com/icon/285104569/s40/manchester-city.png","hours":"08:00 PM","month":"Aug 11","links":[{
-"linkname":"China",
-"link":"https://www.google.com"
-}]
-},{"home":"Burnley FC","homeimg":"https://images.justwatch.com/icon/300419668/s40/burnley-fc.png","away":"Manchester City","awayimg":"https://images.justwatch.com/icon/285104569/s40/manchester-city.png","hours":"08:00 PM","month":"Aug 11","links":[{
-"link name":"China",
-"link":""
-}]}
-],"bundeslina":[{"title":"Bundeslina","img":""},
-{"home":"Burnley FC","homeimg":"https://images.justwatch.com/icon/300419668/s40/burnley-fc.png","away":"Manchester City","awayimg":"https://images.justwatch.com/icon/285104569/s40/manchester-city.png","hours":"08:00 PM","month":"Aug 11","links":[{
-"linkname":"",
-"link":""
-}]
-},{"home":"Burnley FC","homeimg":"https://images.justwatch.com/icon/300419668/s40/burnley-fc.png","away":"Manchester City","awayimg":"https://images.justwatch.com/icon/285104569/s40/manchester-city.png","hours":"08:00 PM","month":"Aug 11","links":[{
-"linkname":"",
-"link":""
-}]}
-],
-"ligue1":[{"title":"Ligue 1","img":""},
-{"home":"Burnley FC","homeimg":"https://images.justwatch.com/icon/300419668/s40/burnley-fc.png","away":"Manchester City","awayimg":"https://images.justwatch.com/icon/285104569/s40/manchester-city.png","hours":"08:00 PM","month":"Aug 11","links":[{
-"linkname":"",
-"link":""
-}]
-},{"home":"Burnley FC","homeimg":"https://images.justwatch.com/icon/300419668/s40/burnley-fc.png","away":"Manchester City","awayimg":"https://images.justwatch.com/icon/285104569/s40/manchester-city.png","hours":"08:00 PM","month":"Aug 11","links":[{
-"linkname":"",
-"link":""
-}]}
-],
-"another":[{"title":"Ligue 1","img":""},
-{"home":"Burnley FC","homeimg":"https://images.justwatch.com/icon/300419668/s40/burnley-fc.png","away":"Manchester City","awayimg":"https://images.justwatch.com/icon/285104569/s40/manchester-city.png","hours":"08:00 PM","month":"Aug 11","links":[{
-"linkname":"",
-"link":""
-}]
-},{"home":"Burnley FC","homeimg":"https://images.justwatch.com/icon/300419668/s40/burnley-fc.png","away":"Manchester City","awayimg":"https://images.justwatch.com/icon/285104569/s40/manchester-city.png","hours":"08:00 PM","month":"Aug 11","links":[{
-"linkname":"",
-"link":""
-}]}
-],
-"another1":[{"title":"Ligue 1","img":""},
-{"home":"Burnley FC","homeimg":"https://images.justwatch.com/icon/300419668/s40/burnley-fc.png","away":"Manchester City","awayimg":"https://images.justwatch.com/icon/285104569/s40/manchester-city.png","hours":"08:00 PM","month":"Aug 11","links":[{
-"linkname":"",
-"link":""
-}]
-},{"home":"Burnley FC","homeimg":"https://images.justwatch.com/icon/300419668/s40/burnley-fc.png","away":"Manchester City","awayimg":"https://images.justwatch.com/icon/285104569/s40/manchester-city.png","hours":"08:00 PM","month":"Aug 11","links":[{
-"linkname":"",
-"link":""
-}]}
-]
+  
+  "matches": [
+    {
+      "time": "15:00",
+      "month": "September",
+      "homeTeam": {
+        "logo": "home_logo_url",
+        "name": "Home Team A"
+      },
+      "awayTeam": {
+        "logo": "away_logo_url",
+        "name": "Away Team B"
+      },
+      "league": {
+        "name": "Premier League",
+        "logo": "league_logo_url"
+      },
+      "links": {
+        "name": "Match Details",
+        "link": "match_details_url"
+      }
+    },
+    {
+      "time": "18:30",
+      "month": "September",
+      "homeTeam": {
+        "logo": "home_logo_url",
+        "name": "Home Team C"
+      },
+      "awayTeam": {
+        "logo": "away_logo_url",
+        "name": "Away Team D"
+      },
+      "league": {
+        "name": "La Liga",
+        "logo": "league_logo_url"
+      },
+      "links": {
+        "name": "Match Details",
+        "link": "match_details_url"
+      }
+    }
+  
+  ]
 }
