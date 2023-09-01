@@ -1,5 +1,4 @@
-{
-  "con":true,
+{ "con":true,
 "title":"Temporary Server Error",
 "subtitle":"a temporary error occor",
 "link":"https://play.google.com/store/apps/details?id=omegle.tv",
@@ -7,49 +6,146 @@
 "uriversion":"1.0",
 "appversionDetails":"goodAppVersion",
 "uriversionDetails":"goodUi",
-  
-  "matches": [
-    {
-      "time": "15:00",
-      "month": "September",
-      "homeTeam": {
-        "logo": "https://images.justwatch.com/icon/300419668/s40/burnley-fc.png"
-,
-        "name": "Home Team A"
-      },
-      "awayTeam": {
-        "logo": "https://images.justwatch.com/icon/285104569/s40/manchester-city.png",
-        "name": "Away Team B"
-      },
-      "league": {
-        "name": "Premier League",
-        "logo": "league_logo_url"
-      },
-      "links": {
-        "name": "Match Details",
-        "link": "match_details_url"
-      }
-    },
-    {
-      "time": "18:30",
-      "month": "September",
-      "homeTeam": {
-        "logo": "https://images.justwatch.com/icon/300419668/s40/burnley-fc.png",
-        "name": "Home Team C"
-      },
-      "awayTeam": {
-        "logo": "https://images.justwatch.com/icon/285104569/s40/manchester-city.png",
-        "name": "Away Team D"
-      },
-      "league": {
-        "name": "La Liga",
-        "logo": "league_logo_url"
-      },
-      "links": {
-        "name": "Match Details",
-        "link": "match_details_url"
-      }
-    }
-  
-  ]
-      }
+"leagues": [
+{
+"name": "Premier League",
+"matches": []
+},
+{
+"name": "La Liga",
+"matches": [
+{
+"home_team": {
+"name": "Team A",
+"logo": "team_a_logo.png"
+},
+"away_team": {
+"name": "Team B",
+"logo": "team_b_logo.png"
+},
+"time": "2023-09-15T14:00:00Z",
+"links": [
+{
+"name": "Link 1",
+"url": "match1_link1_url"
+},
+{
+"name": "Link 2",
+"url": "match1_link2_url"
+}
+],
+"months": ["September"]
+},
+{
+"home_team": {
+"name": "Team C",
+"logo": "team_c_logo.png"
+},
+"away_team": {
+"name": "Team D",
+"logo": "team_d_logo.png"
+},
+"time": "2023-10-05T16:30:00Z",
+"links": [
+{
+"name": "Link 1",
+"url": "match2_link1_url"
+}
+],
+"months": ["October"]
+}
+]
+},
+{
+"name": "Serie A",
+"matches": [
+{
+"home_team": {
+"name": "Team E",
+"logo": "team_e_logo.png"
+},
+"away_team": {
+"name": "Team F",
+"logo": "team_f_logo.png"
+},
+"time": "2023-09-20T19:45:00Z",
+"links": [
+{
+"name": "Link 1",
+"url": "match3_link1_url"
+}
+],
+"months": ["September"]
+},
+{
+"home_team": {
+"name": "Team G",
+"logo": "team_g_logo.png"
+},
+"away_team": {
+"name": "Team H",
+"logo": "team_h_logo.png"
+},
+"time": "2023-10-10T20:00:00Z",
+"links": [
+{
+"name": "Link 1",
+"url": "match4_link1_url"
+},
+{
+"name": "Link 2",
+"url": "match4_link2_url"
+}
+],
+"months": ["October"]
+}
+]
+},
+{
+"name": "Other League",
+"matches": [
+{
+"home_team": {
+"name": "Team I",
+"logo": "team_i_logo.png"
+},
+"away_team": {
+"name": "Team J",
+"logo": "team_j_logo.png"
+},
+"time": "2023-09-25T17:15:00Z",
+"links": [
+{
+"name": "Link 1",
+"url": "match5_link1_url"
+},
+{
+"name": "Link 2",
+"url": "match5_link2_url"
+}
+],
+"months": ["September"]
+},
+{
+"home_team": {
+"name": "Team K",
+"logo": "team_k_logo.png"
+},
+"away_team": {
+"name": "Team L",
+"logo": "team_l_lo
+go.png"
+},
+"time": "2023-10-15T14:30:00Z",
+"links": [
+{
+"name": "Link1",
+"url": "match6_link1_url"
+}
+],
+"months": ["October"]
+}
+]
+}
+]
+}
