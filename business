@@ -13,13 +13,12 @@
       "time": "15:00",
       "month": "September",
       "homeTeam": {
-        "logo": "https://images.justwatch.com/icon/300419668/s40/burnley-fc.png
-",
+        "logo": "https://images.justwatch.com/icon/300419668/s40/burnley-fc.png"
+,
         "name": "Home Team A"
       },
       "awayTeam": {
-        "logo": "https://images.justwatch.com/icon/285104569/s40/manchester-city.png
-",
+        "logo": "https://images.justwatch.com/icon/285104569/s40/manchester-city.png",
         "name": "Away Team B"
       },
       "league": {
@@ -35,13 +34,11 @@
       "time": "18:30",
       "month": "September",
       "homeTeam": {
-        "logo": "https://images.justwatch.com/icon/300419668/s40/burnley-fc.png
-",
+        "logo": "https://images.justwatch.com/icon/300419668/s40/burnley-fc.png",
         "name": "Home Team C"
       },
       "awayTeam": {
-        "logo": "https://images.justwatch.com/icon/285104569/s40/manchester-city.png
-",
+        "logo": "https://images.justwatch.com/icon/285104569/s40/manchester-city.png",
         "name": "Away Team D"
       },
       "league": {
@@ -55,4 +52,4 @@
     }
   
   ]
-}
+      }
