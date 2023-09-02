@@ -8,8 +8,11 @@
 "uriversionDetails":"goodUi",
 "leagues": [
 {
-"name": "Premier League",
+
 "matches": [
+{"name": "Premier League",
+"img":""
+},
 {
 "home_team": {
 "name": "Team I",
@@ -53,10 +56,12 @@
 ]
 },
 {
-"name": "La Liga",
 "matches": [
-{
-"home_team": {
+
+{"name": "Li Lega",
+"img":""
+},{
+"home_team":{
 "name": "Team A",
 "logo": "team_a_logo.png"
 },
@@ -98,8 +103,9 @@
 ]
 },
 {
-"name": "Serie A",
 "matches": [
+{"name": "Seriea A",
+"img":""},
 {
 "home_team": {
 "name": "Team E",
@@ -143,8 +149,9 @@
 ]
 },
 {
-"name": "Other League",
 "matches": [
+{"name": "Other League",
+"img":""},
 {
 "home_team": {
 "name": "Team I",
