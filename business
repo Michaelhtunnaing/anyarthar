@@ -14,12 +14,12 @@
 
  {
           "home_team": {
-            "name": "Team A",
-            "logo": "team_a_logo.png"
+            "name": "Burnely",
+            "logo": "https://images.justwatch.com/icon/300419668/s40/burnley-fc.png"
           },
           "away_team": {
-            "name": "Team B",
-            "logo": "team_b_logo.png"
+            "name": "Man_City",
+            "logo": "https://images.justwatch.com/icon/285104569/s40/manchester-city.png"
           },
           "time": "2023-09-15T14:00:00Z",
           "month": "September",
