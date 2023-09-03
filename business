@@ -126,11 +126,11 @@
         {
           "home_team": {
             "name": "Team C",
-            "logo": "team_c_logo.png"
+            "logo": "https://images.justwatch.com/icon/300419668/s40/burnley-fc.png"
           },
           "away_team": {
             "name": "Team D",
-            "logo": "team_d_logo.png"
+            "logo": "https://images.justwatch.com/icon/300419668/s40/burnley-fc.png"
           },
           "time": "2023-10-05T16:30:00Z",
           "month": "September",
