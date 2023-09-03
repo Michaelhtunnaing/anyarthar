@@ -82,11 +82,11 @@
   {
           "home_team": {
             "name": "Team A",
-            "logo": "team_a_logo.png"
+            "logo": "https://images.justwatch.com/icon/300419668/s40/burnley-fc.png"
           },
           "away_team": {
             "name": "Team B",
-            "logo": "team_b_logo.png"
+            "logo": "https://images.justwatch.com/icon/300419668/s40/burnley-fc.png"
           },
           "time": "2023-09-15T14:00:00Z",
           "month": "September",
@@ -104,11 +104,11 @@
         {
           "home_team": {
             "name": "Team A",
-            "logo": "team_a_logo.png"
+            "logo": "https://images.justwatch.com/icon/300419668/s40/burnley-fc.png"
           },
           "away_team": {
             "name": "Team B",
-            "logo": "team_b_logo.png"
+            "logo": "https://images.justwatch.com/icon/300419668/s40/burnley-fc.png"
           },
           "time": "2023-09-15T14:00:00Z",
           "month": "September",
@@ -149,11 +149,11 @@
         {
           "home_team": {
             "name": "Team E",
-            "logo": "team_e_logo.png"
+            "logo": "https://images.justwatch.com/icon/300419668/s40/burnley-fc.png"
           },
           "away_team": {
             "name": "Team F",
-            "logo": "team_f_logo.png"
+            "logo": "https://images.justwatch.com/icon/300419668/s40/burnley-fc.png"
           },
           "time": "2023-09-20T19:45:00Z",
           "month": "September",
@@ -167,11 +167,11 @@
         {
           "home_team": {
             "name": "Team G",
-            "logo": "team_g_logo.png"
+            "logo": "https://images.justwatch.com/icon/300419668/s40/burnley-fc.png"
           },
           "away_team": {
             "name": "Team H",
-            "logo": "team_h_logo.png"
+            "logo": "https://images.justwatch.com/icon/300419668/s40/burnley-fc.png"
           },
           "time": "2023-10-10T20:00:00Z",
           "month": "September",
@@ -195,11 +195,11 @@
         {
           "home_team": {
             "name": "Team I",
-            "logo": "team_i_logo.png"
+            "logo": "https://images.justwatch.com/icon/300419668/s40/burnley-fc.png"
           },
           "away_team": {
             "name": "Team J",
-            "logo": "team_j_logo.png"
+            "logo": "https://images.justwatch.com/icon/300419668/s40/burnley-fc.png"
           },
           "time": "2023-09-25T17:15:00Z",
           "month": "September",
@@ -217,11 +217,11 @@
         {
           "home_team": {
             "name": "Team K",
-            "logo": "team_k_logo.png"
+            "logo": "https://images.justwatch.com/icon/300419668/s40/burnley-fc.png"
           },
           "away_team": {
             "name": "Team L",
-            "logo": "team_l_logo.png"
+            "logo": "https://images.justwatch.com/icon/300419668/s40/burnley-fc.png"
           },
           "time": "2023-10-15T14:30:00Z",
           "month": "September",
