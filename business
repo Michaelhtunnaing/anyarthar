@@ -15,6 +15,28 @@
     {
       "name": "La Liga",
       "matches": [
+  {
+          "home_team": {
+            "name": "Team A",
+            "logo": "team_a_logo.png"
+          },
+          "away_team": {
+            "name": "Team B",
+            "logo": "team_b_logo.png"
+          },
+          "time": "2023-09-15T14:00:00Z",
+          "month": "September",
+          "links": [
+            {
+              "name": "Link 1",
+              "url": "match1_link1_url"
+            },
+            {
+              "name": "Link 2",
+              "url": "match1_link2_url"
+            }
+          ]
+        },
         {
           "home_team": {
             "name": "Team A",
