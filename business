@@ -224,10 +224,7 @@
           "time": "7:4 PM",
           "month": "September",
           "links": [
-            {
-              "name": "Link1",
-              "url": "match6_link1_url"
-            }
+           
           ]
         }
       ]
