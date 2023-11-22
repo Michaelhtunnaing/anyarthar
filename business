@@ -6,29 +6,6 @@
   "uriversion": "1.0",
   "uriversionDetails": "Ui fix So Please Update",
   "leagues": [
-    {"hname":"Dd",
-    "hlogo":"",
-      "aname":"Away Team",
-      "alogo":"",
-      "month":"Desinbar",
-      "time":"10:0",
-      "links":[
-        {"name":"d1",
-        "url":""}
-      ]
-    },
-    {
-      "hname":"Dd",
-    "hlogo":"",
-      "aname":"Away Team",
-      "alogo":"",
-      "month":"Desinbar",
-      "time":"10:0",
-      "links":[
-        {"name":"d1",
-        "url":""}
-      ]
-    },
     {
       "name": "Premier League",
       "matches": [
@@ -254,3 +231,5 @@
     }
   ]
 }
+
+
