@@ -7,9 +7,9 @@
   "uriversionDetails": "Ui fix So Please Update",
   "firstTeam":{
   "hname":"Man_City",
-  "hlogo":"",
+  "hlogo":"https://th.hoofoot.com/clubs/Manchester U.png",
   "aname":"Man_U",
-  "alogo":"",
+  "alogo":"https://th.hoofoot.com/clubs/Arsenal.png",
   "time":"20.0",
   "month":"setptor",
   "links":[
@@ -25,7 +25,7 @@
 },
   "secondTeam":{
    "hname":"Arsenal",
-  "hlogo":"",
+  "hlogo":"https://th.hoofoot.com/clubs/Arsenal.png",
   "aname":"Chesel",
   "alogo":"",
   "time":"3.0",
