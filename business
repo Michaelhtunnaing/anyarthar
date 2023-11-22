@@ -5,6 +5,38 @@
   "link": "https://play.google.com/store/apps/details?id=omegle.tv",
   "uriversion": "1.0",
   "uriversionDetails": "Ui fix So Please Update",
+  "firstTeam":{
+  "hname":"Man_City",
+  "hlogo":"",
+  "aname":"Man_U",
+  "alogo":"",
+  "time":"20.0",
+  "month":"setptor",
+  "links":[
+     {
+              "name": "Link 1",
+              "url": "match2_link1_url"
+            },
+     {
+              "name": "Link 1",
+              "url": "match2_link1_url"
+            }
+  ]
+},
+  "secondTeam":{
+   "hname":"Arsenal",
+  "hlogo":"",
+  "aname":"Chesel",
+  "alogo":"",
+  "time":"3.0",
+  "month":"desenbar",
+  "links":[
+     {
+              "name": "Link 1",
+              "url": "match2_link1_url"
+            }
+  ]
+},
   "leagues": [
     {
       "name": "Premier League",
@@ -231,5 +263,4 @@
     }
   ]
 }
-
 
