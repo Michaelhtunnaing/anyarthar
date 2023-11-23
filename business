@@ -1,10 +1,4 @@
 {
-  "con": true,
-  "title": "Temporary Server Error",
-  "subtitle": "Please Update Football Application",
-  "link": "https://play.google.com/store/apps/details?id=omegle.tv",
-  "uriversion": "1.0",
-  "uriversionDetails": "Ui fix So Please Update",
   "firstTeam":{
   "hname":"Man_City",
   "hlogo":"https://th.hoofoot.com/clubs/Manchester U.png",
